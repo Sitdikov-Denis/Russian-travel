@@ -1,13 +1,13 @@
-# Проект: Путешествие по России
+# Project: Traveling in Russia
 
-Работа доступна по ссылке на [GitHub Pages](https://sitdikov-denis.github.io/Russian-travel/)
+The work is available at the link to [GitHub Pages](https://sitdikov-denis.github.io/Russian-travel/)
 
-## Описание проекта
- Это адаптивный под различные устройства одностраничный сайт о многих интересных местах в России.
+## Description of the project
+ This is a one-page site adaptive for various devices about many interesting places in Russia.
 
- ## Применяемые технологии
+ ## Applied technologies
 
- Сайт сверстан с помощью HTML5, CSS3 по макету Figma. Сайт адаптирован под разные разрешения, используются Flexbox, Grid Layout,медиазапросы, вся структура файлов оформлена по методологии БЭМ.
+ The site was made using HTML5, CSS3 according to the Figma layout. The site is adapted to different resolutions, Flexbox, Grid Layout, media queries are used, the entire file structure is designed according to the BEM methodology.
 
 
 
